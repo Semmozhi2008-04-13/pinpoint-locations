@@ -2,8 +2,8 @@
 
 A React + TypeScript web app for saving and managing favorite places on an interactive map.
 
-**Live demo:** https://your-vercel-url.vercel.app
-**Repository:** https://github.com/YOUR-USERNAME/pinpoint-locations
+**Live demo:** https://semmozhi2008-04-13.github.io/pinpoint-locations/
+**Repository:** https://github.com/Semmozhi2008-04-13/pinpoint-locations
 
 ---
 
